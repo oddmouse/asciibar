@@ -2,7 +2,7 @@
 	"name": "asciibar",
 	"version": "1.0.0",
 	"scripts": {
-		"build": "hbs --data ./src/data.json --output ./public --extension txt ./src/*.txt",
+		"build": "hbs --helper ./src/helpers/smartBreak.js --helper ./src/helpers/upperCase.js --data ./src/data.json --output ./public --extension txt ./src/*.txt",
 		"clean": "rm -rf ./public && mkdir -p ./public",
 		"dev": "pnpm clean && pnpm watch & pnpm serve",
 		"serve": "python3 -m http.server -d ./public 8000",
@@ -11,6 +11,7 @@
 	"devDependencies": {
 		"cspell": "^9.1.2",
 		"hbs-cli": "^1.4.1",
+		"lodash-es": "^4.17.21",
 		"nodemon": "^3.1.10"
 	},
 	"engines": {

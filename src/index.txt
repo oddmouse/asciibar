@@ -4,6 +4,30 @@
 
 ================================================
 
+
+
 {{#each cocktails as |cocktail|}}
-{{{cocktail.name}}}
+{{upperCase cocktail.name}}
+------------------------------------------------
+
+Ingredients:
+{{#each cocktail.ingredients as |ingredient|}}
+• {{ingredient.direction}}
+{{/each}}
+{{#if cocktail.garnish}}
+
+Garnish:
+• {{smartBreak cocktail.garnish 47}}
+{{/if}}
+
+Method:
+{{smartBreak cocktail.method 49}}
+{{#if cocktail.note}}
+
+Note:
+{{smartBreak cocktail.note 49}}
+{{/if}}
+
+
+
 {{/each}}
