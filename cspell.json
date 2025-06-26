@@ -1,0 +1,14 @@
+{
+	"ignorePaths": [
+		"**/public",
+		".*",
+		".*/**",
+		"package-lock.json",
+		"package.json",
+		"pnpm-lock.json"
+	],
+	"language": "en",
+	"useGitignore": true,
+	"version": "0.2",
+	"words": ["asciibar"]
+}
