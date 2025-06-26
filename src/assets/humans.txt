@@ -1,7 +1,0 @@
-/* TEAM */
-Developer: Lindy Roquemore
-Site: lindy.co
-
-/* THANKS */
-Cocktail Data: Rasmus Bååth
-Github: @rasmusab

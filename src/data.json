@@ -232,6 +232,37 @@
 			"name": "Between the Sheets"
 		},
 		{
+			"garnish": "A brandied cherry",
+			"ingredients": [
+				{
+					"direction": "2 oz rye whiskey",
+					"ingredient": "rye whiskey",
+					"quantity": "2",
+					"unit": "oz"
+				},
+				{
+					"direction": "1 oz Averna amaro",
+					"ingredient": "Averna amaro",
+					"quantity": "1",
+					"unit": "oz"
+				},
+				{
+					"direction": "1 dash Angostura bitters",
+					"ingredient": "Angostura bitters",
+					"quantity": "1",
+					"unit": "dash"
+				},
+				{
+					"direction": "1 dash orange bitters",
+					"ingredient": "orange bitters",
+					"quantity": "1",
+					"unit": "dash"
+				}
+			],
+			"method": "Add the rye whiskey, Averna, Angostura bitters and orange bitters into a mixing glass with ice and stir until well-chilled. Strain into a chilled coupe glass.",
+			"name": "Black Manhattan"
+		},
+		{
 			"category": "Contemporary Classics",
 			"ingredients": [
 				{

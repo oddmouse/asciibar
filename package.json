@@ -2,8 +2,9 @@
 	"name": "asciibar",
 	"version": "1.0.0",
 	"scripts": {
-		"build": "hbs --helper ./src/helpers/smartBreak.js --helper ./src/helpers/upperCase.js --data ./src/data.json --output ./public --extension txt ./src/*.txt",
+		"build": "pnpm compile",
 		"clean": "rm -rf ./public && mkdir -p ./public",
+		"compile": "hbs --helper ./src/helpers/currentDate.js --helper ./src/helpers/smartBreak.js --helper ./src/helpers/upperCase.js --data ./src/data.json --output ./public --extension txt ./src/*.txt",
 		"dev": "pnpm clean && pnpm watch & pnpm serve",
 		"serve": "python3 -m http.server -d ./public 8000",
 		"watch": "nodemon --watch ./src/*.txt --ext txt --exec 'pnpm build'"
@@ -17,5 +18,5 @@
 	"engines": {
 		"node": "22.x"
 	},
-	"packageManager": "pnpm@10.12.1"
+	"packageManager": "pnpm@10.12.4+sha512.5ea8b0deed94ed68691c9bad4c955492705c5eeb8a87ef86bc62c74a26b037b08ff9570f108b2e4dbd1dd1a9186fea925e527f141c648e85af45631074680184"
 }

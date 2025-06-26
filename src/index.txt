@@ -17,7 +17,7 @@ Ingredients:
 {{#if cocktail.garnish}}
 
 Garnish:
-• {{smartBreak cocktail.garnish 47}}
+{{smartBreak cocktail.garnish 49}}
 {{/if}}
 
 Method:
@@ -31,3 +31,9 @@ Note:
 
 
 {{/each}}
+================================================
+© {{currentDate true}} Lindy Roquemore • lindy.co
+
+
+
+ 
