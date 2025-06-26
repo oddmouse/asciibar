@@ -2,13 +2,12 @@
 	"name": "asciibar",
 	"version": "1.0.0",
 	"scripts": {
-		"build": "hbs -D ./src/data/data.json -P ./src/partials/* -o ./public -e txt ./src/*.txt",
+		"build": "hbs --data ./src/data.json --output ./public --extension txt ./src/*.txt",
 		"clean": "rm -rf ./public && mkdir -p ./public",
 		"dev": "pnpm clean && pnpm watch & pnpm serve",
 		"serve": "python3 -m http.server -d ./public 8000",
 		"watch": "nodemon --watch ./src/*.txt --ext txt --exec 'pnpm build'"
 	},
-	"packageManager": "pnpm@10.12.1",
 	"devDependencies": {
 		"cspell": "^9.1.2",
 		"hbs-cli": "^1.4.1",
@@ -16,5 +15,6 @@
 	},
 	"engines": {
 		"node": "22.x"
-	}
+	},
+	"packageManager": "pnpm@10.12.1"
 }
