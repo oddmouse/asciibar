@@ -17,15 +17,15 @@ Ingredients:
 {{#if cocktail.garnish}}
 
 Garnish:
-{{smartBreak cocktail.garnish 49}}
+{{smartBreak cocktail.garnish 48}}
 {{/if}}
 
 Method:
-{{smartBreak cocktail.method 49}}
+{{smartBreak cocktail.method 48}}
 {{#if cocktail.note}}
 
 Note:
-{{smartBreak cocktail.note 49}}
+{{smartBreak cocktail.note 48}}
 {{/if}}
 
 
