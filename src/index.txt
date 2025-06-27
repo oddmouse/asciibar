@@ -1,14 +1,13 @@
-  __   __  __   _  _      ___   __   ___  
- / /\ ( (`/ /` | || |    | |_) / /\ | |_) 
-/_/--\_)_)\_\_,|_||_|    |_|_)/_/--\|_| \ 
+  __   __  __   _  _        ___   __   ___ 
+ / /\ ( (`/ /` | || |      | |_) / /\ | |_)
+/_/--\_)_)\_\_,|_||_|      |_|_)/_/--\|_| \
 
-============================================
-
+===========================================
 
 
 {{#each cocktails as |cocktail|}}
 {{upperCase cocktail.name}}
---------------------------------------------
+-------------------------------------------
 
 Ingredients:
 {{#each cocktail.ingredients as |ingredient|}}
@@ -17,23 +16,25 @@ Ingredients:
 {{#if cocktail.garnish}}
 
 Garnish:
-{{smartBreak cocktail.garnish 45}}
+{{smartBreak cocktail.garnish 44}}
 {{/if}}
 
 Method:
-{{smartBreak cocktail.method 45}}
+{{smartBreak cocktail.method 44}}
 {{#if cocktail.note}}
 
 Note:
-{{smartBreak cocktail.note 45}}
+{{smartBreak cocktail.note 44}}
 {{/if}}
 
 
 
 {{/each}}
-============================================
+===========================================
 © {{currentDate true}} Lindy Roquemore • lindy.co
 
 
 
- 
+
+
+

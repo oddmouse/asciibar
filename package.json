@@ -6,14 +6,15 @@
 		"clean": "rm -rf ./public && mkdir -p ./public",
 		"compile": "hbs --helper ./src/helpers/currentDate.js --helper ./src/helpers/smartBreak.js --helper ./src/helpers/upperCase.js --data ./src/data.json --output ./public --extension txt ./src/*.txt",
 		"dev": "pnpm clean && pnpm watch & pnpm serve",
-		"serve": "python3 -m http.server -d ./public 8000",
+		"serve": "serve ./public",
 		"watch": "nodemon --watch ./src/*.txt --ext txt --exec 'pnpm build'"
 	},
 	"devDependencies": {
 		"cspell": "^9.1.2",
 		"hbs-cli": "^1.4.1",
 		"lodash-es": "^4.17.21",
-		"nodemon": "^3.1.10"
+		"nodemon": "^3.1.10",
+		"serve": "^14.2.4"
 	},
 	"engines": {
 		"node": "22.x"
