@@ -4,6 +4,9 @@
 
 ===========================================
 
+{{smartBreak intro 44}}
+
+
 
 {{#each cocktails as |cocktail|}}
 {{upperCase cocktail.name}}
@@ -11,7 +14,7 @@
 
 Ingredients:
 {{#each cocktail.ingredients as |ingredient|}}
-• {{ingredient.direction}}
+{{smartBreak (ingredientItem ingredient) 44 "  "}}
 {{/each}}
 {{#if cocktail.garnish}}
 

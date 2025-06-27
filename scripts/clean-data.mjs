@@ -1,5 +1,10 @@
 #!/usr/bin/env node
 
+/**
+ * Cleans up the data and converts units from the IBA cocktail list proved by
+ * https://github.com/rasmusab/iba-cocktails
+ */
+
 import { readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -7,14 +12,13 @@ import { sortBy } from "lodash-es";
 
 const filePath = path.dirname(fileURLToPath(import.meta.url));
 
-const inputFilePath = "../src/original.json";
+const inputFilePath = "./iba-cocktails-web.json";
 const inputPath = path.resolve(filePath, inputFilePath);
 const inputBuffer = readFileSync(inputPath);
 const input = JSON.parse(inputBuffer.toString("utf8"));
 
-const outputFilePath = "../src/data.json";
+const outputFilePath = "./cocktails.json";
 const outputPath = path.resolve(filePath, outputFilePath);
-const output = input;
 
 // Function to convert ml to fractional ounces
 function mlToOzFraction(ml) {
@@ -50,34 +54,51 @@ function mlToOzFraction(ml) {
 	return closest.fraction;
 }
 
-// Function to convert ingredient quantities and units
-function convertIngredient(ingredient) {
+// Function to transform ingredient to new structure
+function transformIngredient(ingredient) {
+	const newIngredient = {
+		name: ingredient.ingredient,
+	};
+
+	// Add note if it exists
+	if (ingredient.note) {
+		newIngredient.note = ingredient.note;
+	}
+
+	// Create amount array
+	const amounts = [];
+
+	// Add original amount
+	amounts.push({
+		quantity: ingredient.quantity,
+		unit: ingredient.unit,
+	});
+
+	// If it's ml, add oz conversion
 	if (
 		ingredient.unit === "ml" &&
 		!Number.isNaN(parseFloat(ingredient.quantity))
 	) {
 		const ml = parseFloat(ingredient.quantity);
 		const ozFraction = mlToOzFraction(ml);
-
-		return {
-			...ingredient,
+		amounts.push({
 			quantity: ozFraction,
 			unit: "oz",
-			direction: ingredient.direction.replace(`${ml} ml`, `${ozFraction} oz`),
-		};
+		});
 	}
 
-	return ingredient;
+	newIngredient.amount = amounts;
+
+	return newIngredient;
 }
 
 async function cleanData() {
-	// Sort cocktails by name
-	output.cocktails = sortBy(output.cocktails, ["name"]);
-
-	// Convert ml to oz fractions for all ingredients
-	output.cocktails = output.cocktails.map((cocktail) => ({
-		...cocktail,
-		ingredients: cocktail.ingredients.map(convertIngredient),
+	// Sort cocktails by name and transform structure
+	const output = sortBy(input, ["name"]).map((cocktail) => ({
+		name: cocktail.name,
+		method: cocktail.method,
+		...(cocktail.garnish && { garnish: cocktail.garnish }),
+		ingredients: cocktail.ingredients.map(transformIngredient),
 	}));
 
 	writeFileSync(outputPath, JSON.stringify(output, null, 2));

@@ -1,2866 +1,4987 @@
 {
-  "cocktails": [
-    {
-      "category": "The Unforgettables",
-      "garnish": "Sprinkle fresh ground nutmeg on top.",
-      "ingredients": [
-        {
-          "direction": "1 oz Cognac",
-          "ingredient": "Cognac",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Crème de Cacao (Brown)",
-          "ingredient": "Crème de Cacao",
-          "note": "Brown",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Fresh Cream",
-          "ingredient": "Fresh Cream",
-          "quantity": "1",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
-      "name": "Alexander"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with half orange slice and a lemon zest.",
-      "ingredients": [
-        {
-          "direction": "1 oz Bitter Campari",
-          "ingredient": "Bitter Campari",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Sweet Red Vermouth",
-          "ingredient": "Sweet Red Vermouth",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "A splash of Soda Water",
-          "ingredient": "Soda Water",
-          "quantity": "1",
-          "unit": "splash"
-        }
-      ],
-      "method": "Mix the ingredients directly in an old fashioned glass filled with ice cubes. Add a splash of Soda Water. Stir gently.",
-      "name": "Americano"
-    },
-    {
-      "category": "The Unforgettables",
-      "ingredients": [
-        {
-          "direction": "1 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Apricot Brandy",
-          "ingredient": "Apricot Brandy",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Calvados",
-          "ingredient": "Calvados",
-          "quantity": "1",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
-      "name": "Angel Face"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Optional Maraschino Cherry.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Maraschino Luxardo",
-          "ingredient": "Maraschino Luxardo",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 Bar Spoon Crème de Violette",
-          "ingredient": "Crème de Violette",
-          "quantity": "1",
-          "unit": "bar spoon"
-        }
-      ],
-      "method": "Add all ingredients into a cocktail shaker. Shake with cracked ice and strain into a chilled cocktail glass.",
-      "name": "Aviation"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Pineapple and Cherry, optional mint sprig for additional aroma.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Gold Rum",
-          "ingredient": "Gold Rum",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Galliano",
-          "ingredient": "Galliano",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 oz Fresh Pineapple Juice",
-          "ingredient": "Fresh Pineapple Juice",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 dash Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "1",
-          "unit": "dash"
-        },
-        {
-          "direction": "Top up with Prosecco",
-          "ingredient": "Prosecco",
-          "quantity": "1",
-          "unit": "top up"
-        }
-      ],
-      "method": "Pour all ingredients into cocktail shaker except the Prosecco, shake well with ice, strain into chilled highball glass filled with ice and top up with Prosecco.",
-      "name": "Barracuda"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Optionally garnish with a lemon or orange zest.",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Dry Gin",
-          "ingredient": "Dry Gin",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 teaspoons Honey Syrup",
-          "ingredient": "Honey Syrup",
-          "quantity": "2",
-          "unit": "teaspoon"
-        },
-        {
-          "direction": "3/4 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Orange Juice",
-          "ingredient": "Fresh Orange Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Stir honey with lemon and orange juices until it dissolves, add gin and shake with ice. Strain into a chilled cocktail glass.",
-      "name": "Bee’s Knees"
-    },
-    {
-      "category": "Contemporary Classics",
-      "ingredients": [
-        {
-          "direction": "3 oz Prosecco",
-          "ingredient": "Prosecco",
-          "quantity": "3",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 3/4 oz White Peach Puree",
-          "ingredient": "White Peach Puree",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour peach puree into the mixing glass with ice, add the Prosecco wine. Stir gently and pour in a chilled flute glass.",
-      "name": "Bellini",
-      "note": "PUCCINI - Fresh Mandarin Orange Juice; ROSSINI - Fresh Strawberry Puree; TINTORETTO - Fresh Pomegranate Juice."
-    },
-    {
-      "category": "The Unforgettables",
-      "ingredients": [
-        {
-          "direction": "1 oz White Rum",
-          "ingredient": "White Rum",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Cognac",
-          "ingredient": "Cognac",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Triple Sec",
-          "ingredient": "Triple Sec",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
-      "name": "Between the Sheets"
-    },
-    {
-      "category": "Contemporary Classics",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Vodka",
-          "ingredient": "Vodka",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Coffee Liqueur",
-          "ingredient": "Coffee Liqueur",
-          "quantity": "3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour the ingredients into the old fashioned glass filled with ice cubes. Stir gently.",
-      "name": "Black Russian",
-      "note": "WHITE RUSSIAN - Float fresh cream on the top and stir in slowly."
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Celery, Lemon Wedge (Optional)",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Vodka",
-          "ingredient": "Vodka",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "3 oz Tomato Juice",
-          "ingredient": "Tomato Juice",
-          "quantity": "3",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 dashes Worcestershire Sauce",
-          "ingredient": "Worcestershire Sauce",
-          "quantity": "2",
-          "unit": "dash"
-        },
-        {
-          "direction": "Tabasco",
-          "ingredient": "Tabasco",
-          "quantity": "1",
-          "unit": "dash"
-        },
-        {
-          "direction": "Celery Salt",
-          "ingredient": "Celery Salt",
-          "quantity": "1",
-          "unit": "dash"
-        },
-        {
-          "direction": "Pepper (Up to taste)",
-          "ingredient": "Pepper",
-          "note": "Up to taste",
-          "quantity": "1",
-          "unit": "dash"
-        }
-      ],
-      "method": "Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass.",
-      "name": "Bloody Mary",
-      "note": "If requested served with ice, pour into highball glass."
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with orange zest, optionally a lemon zest.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Bourbon or Rye Whiskey",
-          "ingredient": "Bourbon or Rye Whiskey",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Bitter Campari",
-          "ingredient": "Bitter Campari",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Sweet Red Vermouth",
-          "ingredient": "Sweet Red Vermouth",
-          "quantity": "1",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
-      "name": "Boulevardier"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish optionally with a lemon slice and blackberries.",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Sugar Syrup",
-          "ingredient": "Sugar Syrup",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Crème de Mûre",
-          "ingredient": "Crème de Mûre",
-          "quantity": "1/2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker except the Crème de Mûre, shake well with ice, strain into chilled old fashioned glass filled with crushed ice, then pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
-      "name": "Bramble"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Brandy",
-          "ingredient": "Brandy",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Maraschino Luxardo",
-          "ingredient": "Maraschino Luxardo",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 Bar Spoon Curacao",
-          "ingredient": "Curacao",
-          "quantity": "1",
-          "unit": "bar spoon"
-        },
-        {
-          "direction": "1/2 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 Bar Spoon Simple Syrup",
-          "ingredient": "Simple Syrup",
-          "quantity": "1",
-          "unit": "bar spoon"
-        },
-        {
-          "direction": "2 Dashes Aromatic Bitters",
-          "ingredient": "Aromatic Bitters",
-          "quantity": "2",
-          "unit": "dash"
-        }
-      ],
-      "method": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.",
-      "name": "Brandy Crusta"
-    },
-    {
-      "category": "Contemporary Classics",
-      "ingredients": [
-        {
-          "direction": "2 oz Cachaça",
-          "ingredient": "Cachaça",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 Lime cut into small wedges",
-          "ingredient": "Lime cut into small wedges",
-          "quantity": "1",
-          "unit": "piece"
-        },
-        {
-          "direction": "4 Teaspoons White Cane Sugar",
-          "ingredient": "White Cane Sugar",
-          "quantity": "4",
-          "unit": "teaspoon"
-        }
-      ],
-      "method": "Place lime and sugar into a double old fashioned glass and muddle gently. Fill the glass with cracked ice and add Cachaça. Stir gently to involve ingredients.",
-      "name": "Caipirinha",
-      "note": "CAIPIROSKA - Instead of Cachaça use Vodka."
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Lime wedge.",
-      "ingredients": [
-        {
-          "direction": "2 oz Cuban Aguardiente",
-          "ingredient": "Cuban Aguardiente",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Raw Honey",
-          "ingredient": "Raw Honey",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 3/4 oz Water",
-          "ingredient": "Water",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.",
-      "name": "Canchanchara"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with lemon zest and a maraschino cherry.",
-      "ingredients": [
-        {
-          "direction": "1 1/4 oz Old Tom Gin",
-          "ingredient": "Old Tom Gin",
-          "quantity": "1 1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Maraschino Luxardo",
-          "ingredient": "Maraschino Luxardo",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 Dashes Orange Bitters",
-          "ingredient": "Orange Bitters",
-          "quantity": "2",
-          "unit": "dash"
-        }
-      ],
-      "method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
-      "name": "Casino"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with orange zest and maraschino cherry.",
-      "ingredients": [
-        {
-          "direction": "3 oz Chilled Champagne",
-          "ingredient": "Chilled Champagne",
-          "quantity": "3",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Cognac",
-          "ingredient": "Cognac",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 dashes Angostura bitters",
-          "ingredient": "Angostura bitters",
-          "quantity": "2",
-          "unit": "dash"
-        },
-        {
-          "direction": "Few drops of Grand Marnier (optional)",
-          "ingredient": "Grand Marnier",
-          "note": "optional",
-          "quantity": "few",
-          "unit": "drops"
-        },
-        {
-          "direction": "1 sugar cube",
-          "ingredient": "Sugar Cube",
-          "quantity": "1",
-          "unit": "piece"
-        }
-      ],
-      "method": "Place the sugar cube with 2 dashes of bitters in a large Champagne glass, add the cognac. Pour gently chilled Champagne.",
-      "name": "Champagne Cocktail"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Fresh raspberries.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Raspberry Syrup",
-          "ingredient": "Raspberry Syrup",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "Few Drops of Egg White",
-          "ingredient": "Egg White",
-          "quantity": "few",
-          "unit": "drops"
-        }
-      ],
-      "method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled cocktail glass.",
-      "name": "Clover Club"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with orange zest",
-      "ingredients": [
-        {
-          "direction": "1 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Cointreau",
-          "ingredient": "Cointreau",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Lillet Blanc",
-          "ingredient": "Lillet Blanc",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 dash Absinthe",
-          "ingredient": "Absinthe",
-          "quantity": "1",
-          "unit": "dash"
-        }
-      ],
-      "method": "Pour all ingredients into shaker with ice. Shake well and strain in chilled cocktail glass.",
-      "name": "Corpse Reviver #2"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with a lemon twist.",
-      "ingredients": [
-        {
-          "direction": "1 1/4 oz Vodka Citron",
-          "ingredient": "Vodka Citron",
-          "quantity": "1 1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Cointreau",
-          "ingredient": "Cointreau",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Cranberry Juice",
-          "ingredient": "Cranberry Juice",
-          "quantity": "1",
-          "unit": "oz"
-        }
-      ],
-      "method": "Add all ingredients into a cocktail shaker filled with ice. Shake well and strain into a large cocktail glass.",
-      "name": "Cosmopolitan"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with lime wedge.",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz White Rum",
-          "ingredient": "White Rum",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3 oz Coca Cola",
-          "ingredient": "Coca Cola",
-          "quantity": "3",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "1/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Build all ingredients in a highball glass filled with ice.",
-      "name": "Cuba Libre"
-    },
-    {
-      "category": "The Unforgettables",
-      "ingredients": [
-        {
-          "direction": "2 oz White Cuban Ron",
-          "ingredient": "White Cuban Ron",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 Bar Spoons Superfine Sugar",
-          "ingredient": "Superfine Sugar",
-          "quantity": "2",
-          "unit": "bar spoon"
-        }
-      ],
-      "method": "In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add ice and shake. Strain into chilled cocktail glass.",
-      "name": "Daiquiri"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with a lime wedge or slice.",
-      "ingredients": [
-        {
-          "direction": "2 oz Goslings Rum",
-          "ingredient": "Goslings Rum",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "3 oz Ginger Beer",
-          "ingredient": "Ginger Beer",
-          "quantity": "3",
-          "unit": "oz"
-        }
-      ],
-      "method": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
-      "name": "Dark ‘n’ stormy"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Squeeze oil from lemon peel onto the drink, or garnish with green olives if requested.",
-      "ingredients": [
-        {
-          "direction": "2 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Dry Vermouth",
-          "ingredient": "Dry Vermouth",
-          "quantity": "1/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
-      "name": "Dry Martini"
-    },
-    {
-      "category": "New Era Drinks",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Vodka",
-          "ingredient": "Vodka",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Kahlúa",
-          "ingredient": "Kahlúa",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Sugar Syrup",
-          "ingredient": "Sugar Syrup",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 strong Espresso",
-          "ingredient": "strong Espresso",
-          "quantity": "1",
-          "unit": "shot"
-        }
-      ],
-      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-      "name": "Espresso Martini"
-    },
-    {
-      "category": "New Era Drinks",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Fernet Branca",
-          "ingredient": "Fernet Branca",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "Fill up with Cola",
-          "ingredient": "Cola",
-          "quantity": "1",
-          "unit": "fill up"
-        }
-      ],
-      "method": "Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola. Gently stir.",
-      "name": "Fernandito"
-    },
-    {
-      "category": "Contemporary Classics",
-      "ingredients": [
-        {
-          "direction": "1 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Sugar Syrup",
-          "ingredient": "Sugar Syrup",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 oz Champagne",
-          "ingredient": "Champagne",
-          "quantity": "2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all the ingredients, except Champagne, into a shaker. Shake well and strain into a Champagne flute. Top up with Champagne. Stir gently.",
-      "name": "French 75"
-    },
-    {
-      "category": "Contemporary Classics",
-      "ingredients": [
-        {
-          "direction": "1 1/4 oz Cognac",
-          "ingredient": "Cognac",
-          "quantity": "1 1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 1/4 oz Amaretto",
-          "ingredient": "Amaretto",
-          "quantity": "1 1/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients directly into an old fashioned glass filled with ice cubes. Stir gently.",
-      "name": "French Connection"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Squeeze oil from lemon peel onto the drink.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Vodka",
-          "ingredient": "Vodka",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Raspberry Liqueur",
-          "ingredient": "Raspberry Liqueur",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Pineapple Juice",
-          "ingredient": "Fresh Pineapple Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-      "name": "French Martini"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with a lemon slice, optional lemon zest.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Simple Syrup",
-          "ingredient": "Simple Syrup",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "Splash of Soda Water",
-          "ingredient": "Soda Water",
-          "quantity": "1",
-          "unit": "splash"
-        }
-      ],
-      "method": "Shake all ingredients with ice except soda water. Pour into thin tall Tumbler glass , top with a splash soda water.",
-      "name": "Gin Fizz",
-      "note": "Serve without ice."
-    },
-    {
-      "category": "Contemporary Classics",
-      "ingredients": [
-        {
-          "direction": "3/4 oz Galliano",
-          "ingredient": "Galliano",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Triple Sec",
-          "ingredient": "Triple Sec",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Orange Juice",
-          "ingredient": "Fresh Orange Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Fresh Cream",
-          "ingredient": "Fresh Cream",
-          "quantity": "1/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
-      "name": "Golden Dream"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "N/A, optional mint leaf",
-      "ingredients": [
-        {
-          "direction": "3/4 oz Crème de Cacao (White)",
-          "ingredient": "Crème de Cacao",
-          "note": "White",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Crème de Menthe (Green)",
-          "ingredient": "Crème de Menthe",
-          "note": "Green",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Cream",
-          "ingredient": "Fresh Cream",
-          "quantity": "3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
-      "name": "Grasshopper"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Orange zest.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz London Dry Gin",
-          "ingredient": "London Dry Gin",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 1/2 oz Sweet Red Vermouth",
-          "ingredient": "Sweet Red Vermouth",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Fernet Branca",
-          "ingredient": "Fernet Branca",
-          "quantity": "1/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
-      "name": "Hanky Panky"
-    },
-    {
-      "category": "Contemporary Classics",
-      "ingredients": [
-        {
-          "direction": "2 oz Rum",
-          "ingredient": "Rum",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 1/4 oz Grapefruit Juice",
-          "ingredient": "Grapefruit Juice",
-          "quantity": "1 1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Maraschino Luxardo",
-          "ingredient": "Maraschino Luxardo",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lime",
-          "ingredient": "Fresh Lime",
-          "quantity": "1/2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
-      "name": "Hemingway Special"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with a rind of one lemon spiral.",
-      "ingredients": [
-        {
-          "direction": "1 1/4 oz Cognac",
-          "ingredient": "Cognac",
-          "quantity": "1 1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3 oz Ginger Ale",
-          "ingredient": "Ginger Ale",
-          "quantity": "3",
-          "unit": "oz"
-        },
-        {
-          "direction": "Dash of Angostura Bitters (optional)",
-          "ingredient": "Angostura Bitters",
-          "note": "optional",
-          "quantity": "1",
-          "unit": "dash"
-        }
-      ],
-      "method": "Pour Cognac and ginger ale directly into a highball glass with ice cubes. Stir gently. If preferred, add dashes of Angostura Bitter.",
-      "name": "Horse’s Neck"
-    },
-    {
-      "category": "New Era Drinks",
-      "ingredients": [
-        {
-          "direction": "1 oz Espadin Mezcal",
-          "ingredient": "Espadin Mezcal",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Jamaica Overproof White Rum",
-          "ingredient": "Jamaica Overproof White Rum",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Falernum",
-          "ingredient": "Falernum",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 Bar Spoon Maraschino Luxardo",
-          "ingredient": "Maraschino Luxardo",
-          "quantity": "1",
-          "unit": "bar spoon"
-        },
-        {
-          "direction": "3/4 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Simple Syrup",
-          "ingredient": "Simple Syrup",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "Few Drops of Egg White (Optional)",
-          "ingredient": "Egg White",
-          "note": "Optional",
-          "quantity": "few",
-          "unit": "drops"
-        }
-      ],
-      "method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled cocktail glass, or “on the rocks” in a traditional clay or terracotta mug.",
-      "name": "Illegal"
-    },
-    {
-      "category": "Contemporary Classics",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Irish Whiskey",
-          "ingredient": "Irish Whiskey",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3 oz Hot coffee",
-          "ingredient": "Hot coffee",
-          "quantity": "3",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 3/4 oz Fresh cream (Chilled)",
-          "ingredient": "Fresh cream",
-          "note": "Chilled",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 teaspoon Sugar",
-          "ingredient": "Sugar",
-          "quantity": "1",
-          "unit": "teaspoon"
-        }
-      ],
-      "method": "Warm black coffee is poured into a pre-heated Irish coffee glass. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee. The layer of cream will float on the coffee without mixing. Plain sugar can be replaced with sugar syrup",
-      "name": "Irish Coffee"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with a lemon slice and maraschino cherry.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Simple Syrup",
-          "ingredient": "Simple Syrup",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 oz Soda Water",
-          "ingredient": "Soda Water",
-          "quantity": "2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients directly into a highball filled with ice. Stir gently.",
-      "name": "John Collins",
-      "note": "Use ‘Old Tom’ Gin for Tom Collins."
-    },
-    {
-      "category": "Contemporary Classics",
-      "ingredients": [
-        {
-          "direction": "3 oz Dry White Wine",
-          "ingredient": "Dry White Wine",
-          "quantity": "3",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Crème de Cassis",
-          "ingredient": "Crème de Cassis",
-          "quantity": "1/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour Crème de Cassis into glass, top up with white wine.",
-      "name": "KIR",
-      "note": "KIR ROYAL - Use Champagne instead of white wine."
-    },
-    {
-      "category": "The Unforgettables",
-      "ingredients": [
-        {
-          "direction": "3/4 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Green Chartreuse",
-          "ingredient": "Green Chartreuse",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Maraschino Luxardo",
-          "ingredient": "Maraschino Luxardo",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
-      "name": "Last word"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with sugar rim around the glass.",
-      "ingredients": [
-        {
-          "direction": "1 oz Vodka Citron",
-          "ingredient": "Vodka Citron",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Triple Sec",
-          "ingredient": "Triple Sec",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-      "name": "Lemon drop Martini"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Lemon Slice (Optional)",
-      "ingredients": [
-        {
-          "direction": "1/2 oz Vodka",
-          "ingredient": "Vodka",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Tequila",
-          "ingredient": "Tequila",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz White rum",
-          "ingredient": "White rum",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Cointreau",
-          "ingredient": "Cointreau",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Lemon juice",
-          "ingredient": "Lemon juice",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Simple syrup",
-          "ingredient": "Simple syrup",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "Top with Cola",
-          "ingredient": "Cola",
-          "quantity": "1",
-          "unit": "top up"
-        }
-      ],
-      "method": "Add all ingredients into a highball glass filled with ice. Stir gently.",
-      "name": "Long Island Ice Tea"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with pineapple spear, mint leaves, and lime peel.",
-      "ingredients": [
-        {
-          "direction": "1 oz Amber Jamaican Rum",
-          "ingredient": "Amber Jamaican Rum",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Martinique Molasses Rhum",
-          "ingredient": "Martinique Molasses Rhum",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Orange Curacao",
-          "ingredient": "Orange Curacao",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Orgeat Syrup (Almond)",
-          "ingredient": "Orgeat Syrup",
-          "note": "Almond",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Simple Syrup",
-          "ingredient": "Simple Syrup",
-          "quantity": "1/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Add all ingredients into a shaker with ice. Shake and pour into a double rocks glass or a highball glass. The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of “rummy” from molasses.",
-      "name": "Mai-Tai"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with a cocktail cherry.",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Rye Whiskey",
-          "ingredient": "Rye Whiskey",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Sweet Red Vermouth",
-          "ingredient": "Sweet Red Vermouth",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 dash Angostura Bitters",
-          "ingredient": "Angostura Bitters",
-          "quantity": "1",
-          "unit": "dash"
-        }
-      ],
-      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
-      "name": "Manhattan"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Half salt rim (Optional)",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Tequila 100% Agave",
-          "ingredient": "Tequila 100% Agave",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Triple Sec",
-          "ingredient": "Triple Sec",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Freshly Squeezed Lime Juice",
-          "ingredient": "Freshly Squeezed Lime Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Add all ingredients into a shaker with ice. Shake and strain into a chilled cocktail glass",
-      "name": "Margarita"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Lemon zest.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz London Dry Gin",
-          "ingredient": "London Dry Gin",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 1/2 oz Sweet Red Vermouth",
-          "ingredient": "Sweet Red Vermouth",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 Bar Spoon Maraschino Liqueur",
-          "ingredient": "Maraschino Liqueur",
-          "quantity": "1",
-          "unit": "bar spoon"
-        },
-        {
-          "direction": "2 Dashes Orange Bitters",
-          "ingredient": "Orange Bitters",
-          "quantity": "2",
-          "unit": "dash"
-        }
-      ],
-      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
-      "name": "Martinez"
-    },
-    {
-      "category": "The Unforgettables",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz White Rum",
-          "ingredient": "White Rum",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 1/2 oz Fresh Pineapple Juice",
-          "ingredient": "Fresh Pineapple Juice",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Maraschino Luxardo",
-          "ingredient": "Maraschino Luxardo",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/8 oz Grenadine Syrup",
-          "ingredient": "Grenadine Syrup",
-          "quantity": "1/8",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-      "name": "Mary Pickford"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with an orange twist (optional).",
-      "ingredients": [
-        {
-          "direction": "2 1/2 oz Fresh orange juice",
-          "ingredient": "Fresh orange juice",
-          "quantity": "2 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 1/2 oz Prosecco",
-          "ingredient": "Prosecco",
-          "quantity": "2 1/2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour orange juice into a flute glass and gently pour the sparkling wine. Stir gently.",
-      "name": "Mimosa",
-      "note": "Also known as Buck’s Fizz."
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with a mint sprig.",
-      "ingredients": [
-        {
-          "direction": "2 oz Bourbon Whiskey",
-          "ingredient": "Bourbon Whiskey",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "4 fresh Mint sprigs",
-          "ingredient": "fresh Mint sprigs",
-          "quantity": "4",
-          "unit": "piece"
-        },
-        {
-          "direction": "1 tsp Powdered Sugar",
-          "ingredient": "Powdered Sugar",
-          "quantity": "1",
-          "unit": "teaspoon"
-        },
-        {
-          "direction": "2 tsp Water",
-          "ingredient": "Water",
-          "quantity": "2",
-          "unit": "teaspoon"
-        }
-      ],
-      "method": "In Julep Stainless Steel Cup gently muddle the mint with sugar and water. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
-      "name": "Mint Julep"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with sprigs of mint and slice of lime.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz White Cuban Ron",
-          "ingredient": "White Cuban Ron",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "6 pcs Mint Sprigs",
-          "ingredient": "Mint Sprigs",
-          "quantity": "6",
-          "unit": "piece"
-        },
-        {
-          "direction": "2 tsp White Cane Sugar",
-          "ingredient": "White Cane Sugar",
-          "quantity": "2",
-          "unit": "teaspoon"
-        },
-        {
-          "direction": "Soda Water",
-          "ingredient": "Soda Water",
-          "quantity": "1",
-          "unit": "top up"
-        }
-      ],
-      "method": "Mix mint springs with sugar and lime juice. Add splash of soda water and fill the glass with ice. Pour the rum and top with soda water. Light stir to involve all ingredients.",
-      "name": "Mojito"
-    },
-    {
-      "category": "The Unforgettables",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Dry Gin",
-          "ingredient": "Dry Gin",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 1/2 oz Fresh Orange Juice",
-          "ingredient": "Fresh Orange Juice",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 Table Spoon Absinthe",
-          "ingredient": "Absinthe",
-          "quantity": "1",
-          "unit": "tablespoon"
-        },
-        {
-          "direction": "1 Table Spoon Grenadine Syrup",
-          "ingredient": "Grenadine Syrup",
-          "quantity": "1",
-          "unit": "tablespoon"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-      "name": "Monkey Gland"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with a lime slice",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Smirnoff Vodka",
-          "ingredient": "Smirnoff Vodka",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "3 oz Ginger Beer",
-          "ingredient": "Ginger Beer",
-          "quantity": "3",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Fresh lime juice",
-          "ingredient": "Fresh lime juice",
-          "quantity": "1/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "In a Mule Cup or rocks glass, combine the vodka and ginger beer. Add lime juice and gently stir to involve all ingredients.",
-      "name": "Moscow Mule"
-    },
-    {
-      "category": "New Era Drinks",
-      "ingredients": [
-        {
-          "direction": "3/4 oz Mezcal",
-          "ingredient": "Mezcal",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Yellow Chartreuse",
-          "ingredient": "Yellow Chartreuse",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Aperol",
-          "ingredient": "Aperol",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-      "name": "Naked and Famous"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with a half orange slice.",
-      "ingredients": [
-        {
-          "direction": "1 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Bitter Campari",
-          "ingredient": "Bitter Campari",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Sweet Red Vermouth",
-          "ingredient": "Sweet Red Vermouth",
-          "quantity": "1",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.",
-      "name": "Negroni"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with lemon or orange zest with cherry.",
-      "ingredients": [
-        {
-          "direction": "2 oz Rye Whiskey or Bourbon",
-          "ingredient": "Rye Whiskey or Bourbon",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Simple syrup",
-          "ingredient": "Simple syrup",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Fresh lemon juice",
-          "ingredient": "Fresh lemon juice",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "Few Drops of Egg White",
-          "ingredient": "Egg White",
-          "quantity": "few",
-          "unit": "drops"
-        },
-        {
-          "direction": "1/2 oz Red wine (Shiraz or Malbech)",
-          "ingredient": "Red wine",
-          "note": "Shiraz or Malbech",
-          "quantity": "1/2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled rocks glass filled with ice. Float the wine on top.",
-      "name": "New York Sour"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with mint springs.",
-      "ingredients": [
-        {
-          "direction": "6/8 pcs Mint Leaves",
-          "ingredient": "Mint Leaves",
-          "quantity": "6-8",
-          "unit": "piece"
-        },
-        {
-          "direction": "1 1/2 oz Aged Rum",
-          "ingredient": "Aged Rum",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Simple Syrup",
-          "ingredient": "Simple Syrup",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 Dashes Angostura Bitters",
-          "ingredient": "Angostura Bitters",
-          "quantity": "2",
-          "unit": "dash"
-        },
-        {
-          "direction": "2 oz Brut Champagne or Prosecco",
-          "ingredient": "Brut Champagne or Prosecco",
-          "quantity": "2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass. Top up with the sparkling wine.",
-      "name": "Old Cuban"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with an orange slice or zest, and a cocktail cherry.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Bourbon or Rye Whiskey",
-          "ingredient": "Bourbon or Rye Whiskey",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 Sugar Cube",
-          "ingredient": "Sugar Cube",
-          "quantity": "1",
-          "unit": "piece"
-        },
-        {
-          "direction": "Few Dashes Angostura Bitters",
-          "ingredient": "Angostura Bitters",
-          "quantity": "few",
-          "unit": "dash"
-        },
-        {
-          "direction": "Few Dashes Plain Water",
-          "ingredient": "Plain Water",
-          "quantity": "few",
-          "unit": "dash"
-        }
-      ],
-      "method": "Place sugar cube in old fashioned glass and saturate with bitter, add few dashes of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Stir gently.",
-      "name": "Old Fashioned"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with a slice of lime.",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz 100% Agave Tequila",
-          "ingredient": "100% Agave Tequila",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/8 oz Fresh lime",
-          "ingredient": "Fresh lime",
-          "quantity": "1/8",
-          "unit": "oz"
-        },
-        {
-          "direction": "A pinch of Salt",
-          "ingredient": "Salt",
-          "quantity": "1",
-          "unit": "pinch"
-        },
-        {
-          "direction": "3 oz Pink Grapefruit Soda",
-          "ingredient": "Pink Grapefruit Soda",
-          "quantity": "3",
-          "unit": "oz"
-        }
-      ],
-      "method": "Poor the tequila into a highball glass, squeeze the lime juice. Add ice and salt, fill up pink grapefruit soda. Stir gently.",
-      "name": "Paloma"
-    },
-    {
-      "category": "New Era Drinks",
-      "ingredients": [
-        {
-          "direction": "1 oz Bourbon Whiskey",
-          "ingredient": "Bourbon Whiskey",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Amaro Nonino",
-          "ingredient": "Amaro Nonino",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Aperol",
-          "ingredient": "Aperol",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-      "name": "Paper Plane"
-    },
-    {
-      "category": "The Unforgettables",
-      "ingredients": [
-        {
-          "direction": "1 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Apricot Brandy",
-          "ingredient": "Apricot Brandy",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Orange Juice",
-          "ingredient": "Fresh Orange Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-      "name": "Paradise"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with candied ginger.",
-      "ingredients": [
-        {
-          "direction": "2 oz Blended Scotch Whisky",
-          "ingredient": "Blended Scotch Whisky",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Lagavulin 16 y Whisky",
-          "ingredient": "Lagavulin 16 y Whisky",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Honey Syrup",
-          "ingredient": "Honey Syrup",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "2-3 quarter size Sliced Fresh Ginger",
-          "ingredient": "quarter size Sliced Fresh Ginger",
-          "quantity": "2-3",
-          "unit": "piece"
-        }
-      ],
-      "method": "Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Islay single malt whiskey. Fill the shaker with ice and shake. Double-strain into a chilled old fashioned glass with ice. Float the single malt whisky on top.",
-      "name": "Penicillin"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with a slice of pineapple with a cocktail cherry.",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz White Rum",
-          "ingredient": "White Rum",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Coconut Cream",
-          "ingredient": "Coconut Cream",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 3/4 oz Fresh Pineapple Juice",
-          "ingredient": "Fresh Pineapple Juice",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws.",
-      "name": "Pina Colada",
-      "note": "Historically a few drops of fresh lime juice were added to taste. 4 slices of fresh pineapple can be used instead of juice."
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Few dashes of Amargo bitters on top as an aromatic garnish.",
-      "ingredients": [
-        {
-          "direction": "2 oz Pisco",
-          "ingredient": "Pisco",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Simple Syrup",
-          "ingredient": "Simple Syrup",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 Raw Egg White",
-          "ingredient": "Raw Egg White",
-          "quantity": "1",
-          "unit": "piece"
-        }
-      ],
-      "method": "Add all ingredients into a shaker with ice. Shake and strain into a chilled goblet glass.",
-      "name": "Pisco Sour"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with orange zest.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Jamaican Rum",
-          "ingredient": "Jamaican Rum",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Lime Juice",
-          "ingredient": "Lime Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Sugar Cane Juice",
-          "ingredient": "Sugar Cane Juice",
-          "quantity": "1",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients directly in a small tumbler or a typical terracotta glass.",
-      "name": "Planter’s Punch",
-      "note": "Add dilution up to taste, it can be given by water, ice or fresh juices."
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Sprinkle with fresh ground nutmeg.",
-      "ingredients": [
-        {
-          "direction": "1/2 oz Brandy",
-          "ingredient": "Brandy",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 1/2 oz Red Tawny Port Wine",
-          "ingredient": "Red Tawny Port Wine",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Egg Yolk",
-          "ingredient": "Egg Yolk",
-          "quantity": "1/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-      "name": "Porto Flip"
-    },
-    {
-      "category": "The Unforgettables",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Sugar Syrup",
-          "ingredient": "Sugar Syrup",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 oz Cream",
-          "ingredient": "Cream",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Egg white",
-          "ingredient": "Egg white",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "3 Dashes Orange Flower Water",
-          "ingredient": "Orange Flower Water",
-          "quantity": "3",
-          "unit": "dash"
-        },
-        {
-          "direction": "2 Drops Vanilla Extract",
-          "ingredient": "Vanilla Extract",
-          "quantity": "2",
-          "unit": "drops"
-        },
-        {
-          "direction": "Soda Water",
-          "ingredient": "Soda Water",
-          "quantity": "1",
-          "unit": "top up"
-        }
-      ],
-      "method": "Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute. Strain into a highball glass, top up with soda.",
-      "name": "Ramos Fizz",
-      "note": "The drink was invented by Henry Ramos in 1888, at his bar Meyer’s Table d’Hôtel Internationale in New Orleans. The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another."
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with blackberries and optionally a lemon slice as well.",
-      "ingredients": [
-        {
-          "direction": "3/4 oz Vodka",
-          "ingredient": "Vodka",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Crème de Cassis",
-          "ingredient": "Crème de Cassis",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Sugar syrup",
-          "ingredient": "Sugar syrup",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "Top up Sparkling wine",
-          "ingredient": "Sparkling wine",
-          "quantity": "1",
-          "unit": "top up"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker except the sparkling wine, shake well with ice, strain into a chilled tall tumbler glass filled with ice, and top up with sparkling wine.",
-      "name": "Russian Spring Punch"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with lemon zest.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Scotch Whisky",
-          "ingredient": "Scotch Whisky",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Drambuie",
-          "ingredient": "Drambuie",
-          "quantity": "3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients directly into an old fashioned glass filled with ice. Stir gently.",
-      "name": "Rusty Nail"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with lemon zest.",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Cognac",
-          "ingredient": "Cognac",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Absinthe",
-          "ingredient": "Absinthe",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 Sugar Cube",
-          "ingredient": "Sugar Cube",
-          "quantity": "1",
-          "unit": "piece"
-        },
-        {
-          "direction": "2 Dashes Peychaud’s Bitters",
-          "ingredient": "Peychaud’s Bitters",
-          "quantity": "2",
-          "unit": "dash"
-        }
-      ],
-      "method": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice in a mixing glass. Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass.",
-      "name": "Sazerac",
-      "note": "The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain."
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with orange zest and cherry",
-      "ingredients": [
-        {
-          "direction": "1 1/4 oz Vodka",
-          "ingredient": "Vodka",
-          "quantity": "1 1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3 oz Cranberry Juice",
-          "ingredient": "Cranberry Juice",
-          "quantity": "3",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Grapefruit Juice",
-          "ingredient": "Grapefruit Juice",
-          "quantity": "1",
-          "unit": "oz"
-        }
-      ],
-      "method": "Build all ingredients in a highball glass filled with ice.",
-      "name": "Sea Breeze"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with a half orange slice.",
-      "ingredients": [
-        {
-          "direction": "1 1/4 oz Vodka",
-          "ingredient": "Vodka",
-          "quantity": "1 1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Peach Schnapps",
-          "ingredient": "Peach Schnapps",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 1/4 oz Fresh Orange Juice",
-          "ingredient": "Fresh Orange Juice",
-          "quantity": "1 1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 1/4 oz Cranberry Juice",
-          "ingredient": "Cranberry Juice",
-          "quantity": "1 1/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Build all ingredients in a highball glass filled with ice.",
-      "name": "Sex on the Beach"
-    },
-    {
-      "category": "The Unforgettables",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Cognac",
-          "ingredient": "Cognac",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Triple Sec",
-          "ingredient": "Triple Sec",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-      "name": "Sidecar"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with pineapple and maraschino cherry",
-      "ingredients": [
-        {
-          "direction": "1 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Cherry liqueur",
-          "ingredient": "Cherry liqueur",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Cointreau",
-          "ingredient": "Cointreau",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz DOM Bénédictine",
-          "ingredient": "DOM Bénédictine",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3 oz Fresh Pineapple Juice",
-          "ingredient": "Fresh Pineapple Juice",
-          "quantity": "3",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Grenadine Syrup",
-          "ingredient": "Grenadine Syrup",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "A dash of Angostura bitters",
-          "ingredient": "Angostura bitters",
-          "quantity": "1",
-          "unit": "dash"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker filled with ice cubes. Shake well. Strain into Hurricane glass.",
-      "name": "Singapore Sling"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with mint springs.",
-      "ingredients": [
-        {
-          "direction": "2 oz London Dry Gin",
-          "ingredient": "London Dry Gin",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Simple Syrup",
-          "ingredient": "Simple Syrup",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "5/6 Mint Leaves",
-          "ingredient": "Mint Leaves",
-          "quantity": "5-6",
-          "unit": "piece"
-        },
-        {
-          "direction": "Few Drops of Egg White (Optional)",
-          "ingredient": "Egg White",
-          "note": "Optional",
-          "quantity": "few",
-          "unit": "drops"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
-      "name": "Southside",
-      "note": "If egg white is used shake vigorously."
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with a red chili pepper",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Vodka Vanilla",
-          "ingredient": "Vodka Vanilla",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Elderflower Cordial",
-          "ingredient": "Elderflower Cordial",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Monin Honey Syrup",
-          "ingredient": "Monin Honey Syrup",
-          "quantity": "1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 thin Slices Red Chili Pepper",
-          "ingredient": "thin Slices Red Chili Pepper",
-          "quantity": "2",
-          "unit": "piece"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
-      "name": "Spicy Fifty"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with a slice of orange.",
-      "ingredients": [
-        {
-          "direction": "3 oz Prosecco",
-          "ingredient": "Prosecco",
-          "quantity": "3",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 oz Aperol",
-          "ingredient": "Aperol",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "Splash of Soda water",
-          "ingredient": "Soda water",
-          "quantity": "1",
-          "unit": "splash"
-        }
-      ],
-      "method": "Build all ingredients into a wine glass filled with ice. Stir gently.",
-      "name": "Spritz",
-      "note": "There are other versions of the Spritz that use Campari, Cynar or Select instead of Aperol."
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Optional mint leave.",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Cognac",
-          "ingredient": "Cognac",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz White Crème de Menthe",
-          "ingredient": "White Crème de Menthe",
-          "quantity": "3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
-      "name": "Stinger"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with mint springs and optionally an orange slice as well.",
-      "ingredients": [
-        {
-          "direction": "1 oz Cognac or Brandy",
-          "ingredient": "Cognac or Brandy",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 Dashes Angostura Bitters",
-          "ingredient": "Angostura Bitters",
-          "quantity": "2",
-          "unit": "dash"
-        },
-        {
-          "direction": "Top up Ginger beer",
-          "ingredient": "Ginger beer",
-          "quantity": "1",
-          "unit": "top up"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker except the ginger beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with ginger beer.",
-      "name": "Suffering Bastard"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with half orange slice or an orange zest",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Tequila",
-          "ingredient": "Tequila",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "3 oz Fresh Orange Juice",
-          "ingredient": "Fresh Orange Juice",
-          "quantity": "3",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Grenadine Syrup",
-          "ingredient": "Grenadine Syrup",
-          "quantity": "1/2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour tequila and orange juice directly into highball glass filled with ice cubes. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.",
-      "name": "Tequila Sunrise"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with a slice of orange.",
-      "ingredients": [
-        {
-          "direction": "1 3/4 oz Irish Whiskey",
-          "ingredient": "Irish Whiskey",
-          "quantity": "1 3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Sweet Red Vermouth",
-          "ingredient": "Sweet Red Vermouth",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Green Chartreuse",
-          "ingredient": "Green Chartreuse",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "2 Dashes Angostura Bitters",
-          "ingredient": "Angostura Bitters",
-          "quantity": "2",
-          "unit": "dash"
-        }
-      ],
-      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
-      "name": "Tipperary"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with a lime slice.",
-      "ingredients": [
-        {
-          "direction": "2 oz Tequila Agave 100% Reposado",
-          "ingredient": "Tequila Agave 100% Reposado",
-          "quantity": "2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Fresh Lime Juice (Persiano)",
-          "ingredient": "Fresh Lime Juice",
-          "note": "Persiano",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Agave Syrup (1/2 Water + 1/2 Agave Nectar)",
-          "ingredient": "Agave Syrup",
-          "note": "1/2 Water + 1/2 Agave Nectar",
-          "quantity": "1",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
-      "name": "Tommy’s Margarita"
-    },
-    {
-      "category": "New Era Drinks",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Angostura Bitters",
-          "ingredient": "Angostura Bitters",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Orgeat Syrup",
-          "ingredient": "Orgeat Syrup",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Rye Whisky",
-          "ingredient": "Rye Whisky",
-          "quantity": "1/2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-      "name": "Trinidad Sour"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with cherry and lemon zest",
-      "ingredients": [
-        {
-          "direction": "1 oz Old Tom Gin",
-          "ingredient": "Old Tom Gin",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Dry Vermouth",
-          "ingredient": "Dry Vermouth",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 Bar Spoon Maraschino Luxardo",
-          "ingredient": "Maraschino Luxardo",
-          "quantity": "1/2",
-          "unit": "bar spoon"
-        },
-        {
-          "direction": "1/4 Bar Spoon of Absinthe",
-          "ingredient": "Absinthe",
-          "quantity": "1/4",
-          "unit": "bar spoon"
-        },
-        {
-          "direction": "3 Dashes Orange Bitters",
-          "ingredient": "Orange Bitters",
-          "quantity": "3",
-          "unit": "dash"
-        }
-      ],
-      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
-      "name": "Tuxedo"
-    },
-    {
-      "category": "New Era Drinks",
-      "garnish": "Garnish with lemon zest and white grapes.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz White Smooth Grappa",
-          "ingredient": "White Smooth Grappa",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh lemon Juice",
-          "ingredient": "Fresh lemon Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Honey mix (replace water with chamomile)",
-          "ingredient": "Honey mix",
-          "note": "replace water with chamomile",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Chamomile cordial",
-          "ingredient": "Chamomile cordial",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Egg White (Optional)",
-          "ingredient": "Egg White",
-          "note": "Optional",
-          "quantity": "1/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled small tumbler glass filled with ice. Notes: If desired water can be replaced by chamomile infusion in the honey mix.",
-      "name": "VE.N.TO"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Lemon zest",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Vodka",
-          "ingredient": "Vodka",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/4 oz Lillet Blanc",
-          "ingredient": "Lillet Blanc",
-          "quantity": "1/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
-      "name": "Vesper"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with orange zest and maraschino cherry.",
-      "ingredients": [
-        {
-          "direction": "1 oz Rye Whiskey",
-          "ingredient": "Rye Whiskey",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Cognac",
-          "ingredient": "Cognac",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Sweet Vermouth",
-          "ingredient": "Sweet Vermouth",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 Bar Spoon Bénédictine",
-          "ingredient": "Bénédictine",
-          "quantity": "1",
-          "unit": "bar spoon"
-        },
-        {
-          "direction": "2 Dashes Peychaud’s Bitters",
-          "ingredient": "Peychaud’s Bitters",
-          "quantity": "2",
-          "unit": "dash"
-        }
-      ],
-      "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
-      "name": "Vieux Carrè"
-    },
-    {
-      "category": "The Unforgettables",
-      "garnish": "Garnish with a half orange slice and maraschino cherry, optionally use orange zest.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Bourbon Whiskey",
-          "ingredient": "Bourbon Whiskey",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Sugar Syrup",
-          "ingredient": "Sugar Syrup",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Egg White (Optional)",
-          "ingredient": "Egg White",
-          "note": "Optional",
-          "quantity": "3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker filled with ice. Shake well. Strain into cobbler glass. If served “On the rocks”, strain ingredients into an old fashioned glass filled with ice.",
-      "name": "Whiskey Sour",
-      "note": "If egg white is used shake little harder to release and incorporate the foam from the egg white."
-    },
-    {
-      "category": "The Unforgettables",
-      "ingredients": [
-        {
-          "direction": "1 1/4 oz Gin",
-          "ingredient": "Gin",
-          "quantity": "1 1/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Triple Sec",
-          "ingredient": "Triple Sec",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh Lemon Juice",
-          "ingredient": "Fresh Lemon Juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
-      "name": "White Lady"
-    },
-    {
-      "category": "New Era Drinks",
-      "ingredients": [
-        {
-          "direction": "1 oz White rum",
-          "ingredient": "White rum",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Galliano",
-          "ingredient": "Galliano",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Triple Sec",
-          "ingredient": "Triple Sec",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Fresh Lime Juice",
-          "ingredient": "Fresh Lime Juice",
-          "quantity": "1/2",
-          "unit": "oz"
-        }
-      ],
-      "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
-      "name": "Yellow Bird"
-    },
-    {
-      "category": "Contemporary Classics",
-      "garnish": "Garnish with mint leaves.",
-      "ingredients": [
-        {
-          "direction": "1 1/2 oz Jamaican dark rum",
-          "ingredient": "Jamaican dark rum",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 1/2 oz Gold Puerto Rican rum",
-          "ingredient": "Gold Puerto Rican rum",
-          "quantity": "1 1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 oz Demerara Rum",
-          "ingredient": "Demerara Rum",
-          "quantity": "1",
-          "unit": "oz"
-        },
-        {
-          "direction": "3/4 oz Fresh lime juice",
-          "ingredient": "Fresh lime juice",
-          "quantity": "3/4",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Falernum",
-          "ingredient": "Falernum",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1/2 oz Donn’s Mix",
-          "ingredient": "Donn’s Mix",
-          "quantity": "1/2",
-          "unit": "oz"
-        },
-        {
-          "direction": "1 tsp Grenadine syrup",
-          "ingredient": "Grenadine syrup",
-          "quantity": "1",
-          "unit": "teaspoon"
-        },
-        {
-          "direction": "1 dash Angostura bitters",
-          "ingredient": "Angostura bitters",
-          "quantity": "1",
-          "unit": "dash"
-        },
-        {
-          "direction": "6 drops Pernod",
-          "ingredient": "Pernod",
-          "quantity": "6",
-          "unit": "drops"
-        }
-      ],
-      "method": "Add all ingredients into an electric blender with 170 grams of cracked ice. With pulse bottom blend for a few seconds. Serve in a tall tumbler glass.",
-      "name": "Zombie",
-      "note": "Donn’s Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup."
-    }
-  ]
+	"cocktails": [
+		{
+			"garnish": "Sprinkle fresh ground nutmeg on top.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Cognac"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Crème de Cacao",
+					"note": "Brown"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Cream"
+				}
+			],
+			"method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+			"name": "Alexander"
+		},
+		{
+			"garnish": "Garnish with half orange slice and a lemon zest.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Bitter Campari"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Sweet Red Vermouth"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "splash"
+						}
+					],
+					"name": "Soda Water"
+				}
+			],
+			"method": "Mix the ingredients directly in an old fashioned glass filled with ice cubes. Add a splash of Soda Water. Stir gently.",
+			"name": "Americano"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Apricot Brandy"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Calvados"
+				}
+			],
+			"method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+			"name": "Angel Face"
+		},
+		{
+			"garnish": "Optional Maraschino Cherry.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Maraschino Luxardo"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "bar spoon"
+						}
+					],
+					"name": "Crème de Violette"
+				}
+			],
+			"method": "Add all ingredients into a cocktail shaker. Shake with cracked ice and strain into a chilled cocktail glass.",
+			"name": "Aviation"
+		},
+		{
+			"garnish": "Pineapple and Cherry, optional mint sprig for additional aroma.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Gold Rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Galliano"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Pineapple Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "dash"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "top up"
+						}
+					],
+					"name": "Prosecco"
+				}
+			],
+			"method": "Pour all ingredients into cocktail shaker except the Prosecco, shake well with ice, strain into chilled highball glass filled with ice and top up with Prosecco.",
+			"name": "Barracuda"
+		},
+		{
+			"garnish": "Optionally garnish with a lemon or orange zest.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "52.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Dry Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "teaspoon"
+						}
+					],
+					"name": "Honey Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Orange Juice"
+				}
+			],
+			"method": "Stir honey with lemon and orange juices until it dissolves, add gin and shake with ice. Strain into a chilled cocktail glass.",
+			"name": "Bee’s Knees"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "100",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Prosecco"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "White Peach Puree"
+				}
+			],
+			"method": "Pour peach puree into the mixing glass with ice, add the Prosecco wine. Stir gently and pour in a chilled flute glass.",
+			"name": "Bellini",
+			"note": "PUCCINI - Fresh Mandarin Orange Juice; ROSSINI - Fresh Strawberry Puree; TINTORETTO - Fresh Pomegranate Juice."
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "White Rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Cognac"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Triple Sec"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				}
+			],
+			"method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+			"name": "Between the Sheets"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Vodka"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Coffee Liqueur"
+				}
+			],
+			"method": "Pour the ingredients into the old fashioned glass filled with ice cubes. Stir gently.",
+			"name": "Black Russian",
+			"note": "WHITE RUSSIAN - Float fresh cream on the top and stir in slowly."
+		},
+		{
+			"garnish": "Celery, Lemon Wedge (Optional)",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Vodka"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "90",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Tomato Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "dash"
+						}
+					],
+					"name": "Worcestershire Sauce"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "dash"
+						}
+					],
+					"name": "Tabasco"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "dash"
+						}
+					],
+					"name": "Celery Salt"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "dash"
+						}
+					],
+					"name": "Pepper",
+					"note": "Up to taste"
+				}
+			],
+			"method": "Stir gently all the ingredients in a mixing glass with ice, pour into rocks glass.",
+			"name": "Bloody Mary",
+			"note": "If requested served with ice, pour into highball glass."
+		},
+		{
+			"garnish": "Garnish with orange zest, optionally a lemon zest.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Bourbon or Rye Whiskey"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Bitter Campari"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Sweet Red Vermouth"
+				}
+			],
+			"method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+			"name": "Boulevardier"
+		},
+		{
+			"garnish": "Garnish optionally with a lemon slice and blackberries.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "25",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "12.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Sugar Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Crème de Mûre"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker except the Crème de Mûre, shake well with ice, strain into chilled old fashioned glass filled with crushed ice, then pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
+			"name": "Bramble"
+		},
+		{
+			"garnish": "Rub a slice of orange (or lemon) around the rim of the glass and dip it in pulverized white sugar, so that the sugar will adhere to the edge of the glass. Carefully curling place the orange/lemon peel around the inside of the glass.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "52.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Brandy"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "7.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Maraschino Luxardo"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "bar spoon"
+						}
+					],
+					"name": "Curacao"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "bar spoon"
+						}
+					],
+					"name": "Simple Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "dash"
+						}
+					],
+					"name": "Aromatic Bitters"
+				}
+			],
+			"method": "Mix together all ingredients with ice cubes in a mixing glass and strain into prepared slim cocktail glass.",
+			"name": "Brandy Crusta"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Cachaça"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "piece"
+						}
+					],
+					"name": "Lime cut into small wedges"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "4",
+							"unit": "teaspoon"
+						}
+					],
+					"name": "White Cane Sugar"
+				}
+			],
+			"method": "Place lime and sugar into a double old fashioned glass and muddle gently. Fill the glass with cracked ice and add Cachaça. Stir gently to involve ingredients.",
+			"name": "Caipirinha",
+			"note": "CAIPIROSKA - Instead of Cachaça use Vodka;"
+		},
+		{
+			"garnish": "Lime wedge.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Cuban Aguardiente"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Raw Honey"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Water"
+				}
+			],
+			"method": "Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.",
+			"name": "Canchanchara"
+		},
+		{
+			"garnish": "Garnish with lemon zest and a maraschino cherry.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "40",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Old Tom Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Maraschino Luxardo"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "dash"
+						}
+					],
+					"name": "Orange Bitters"
+				}
+			],
+			"method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled rocks glass with ice.",
+			"name": "Casino"
+		},
+		{
+			"garnish": "Garnish with orange zest and maraschino cherry.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "90",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Chilled Champagne"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Cognac"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "dash"
+						}
+					],
+					"name": "Angostura bitters"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "few",
+							"unit": "drops"
+						}
+					],
+					"name": "Grand Marnier",
+					"note": "optional"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "piece"
+						}
+					],
+					"name": "Sugar Cube"
+				}
+			],
+			"method": "Place the sugar cube with 2 dashes of bitters in a large Champagne glass, add the cognac. Pour gently chilled Champagne.",
+			"name": "Champagne Cocktail"
+		},
+		{
+			"garnish": "Fresh raspberries.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Raspberry Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "few",
+							"unit": "drops"
+						}
+					],
+					"name": "Egg White"
+				}
+			],
+			"method": "Pour all ingredients into cocktails shaker, shake well with ice, strain into chilled cocktail glass.",
+			"name": "Clover Club"
+		},
+		{
+			"garnish": "Garnish with orange zest",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Cointreau"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Lillet Blanc"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "dash"
+						}
+					],
+					"name": "Absinthe"
+				}
+			],
+			"method": "Pour all ingredients into shaker with ice. Shake well and strain in chilled cocktail glass.",
+			"name": "Corpse Reviver #2"
+		},
+		{
+			"garnish": "Garnish with a lemon twist.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "40",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Vodka Citron"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Cointreau"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Cranberry Juice"
+				}
+			],
+			"method": "Add all ingredients into a cocktail shaker filled with ice. Shake well and strain into a large cocktail glass.",
+			"name": "Cosmopolitan"
+		},
+		{
+			"garnish": "Garnish with lime wedge.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "White Rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "120",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Coca Cola"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				}
+			],
+			"method": "Build all ingredients in a highball glass filled with ice.",
+			"name": "Cuba Libre"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "White Cuban Ron"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "bar spoon"
+						}
+					],
+					"name": "Superfine Sugar"
+				}
+			],
+			"method": "In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add ice and shake. Strain into chilled cocktail glass.",
+			"name": "Daiquiri"
+		},
+		{
+			"garnish": "Garnish with a lime wedge or slice.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Goslings Rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "100",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Ginger Beer"
+				}
+			],
+			"method": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+			"name": "Dark ‘n’ stormy"
+		},
+		{
+			"garnish": "Squeeze oil from lemon peel onto the drink, or garnish with green olives if requested.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Dry Vermouth"
+				}
+			],
+			"method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+			"name": "Dry Martini"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Vodka"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Kahlúa"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Sugar Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "shot"
+						}
+					],
+					"name": "strong Espresso"
+				}
+			],
+			"method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+			"name": "Espresso Martini"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fernet Branca"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "fill up"
+						}
+					],
+					"name": "Cola"
+				}
+			],
+			"method": "Pour the Fernet Branca into a double old fashioned glass with ice, fill the glass up with Cola. Gently stir.",
+			"name": "Fernandito"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Sugar Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Champagne"
+				}
+			],
+			"method": "Pour all the ingredients, except Champagne, into a shaker. Shake well and strain into a Champagne flute. Top up with Champagne. Stir gently.",
+			"name": "French 75"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "35",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Cognac"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "35",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Amaretto"
+				}
+			],
+			"method": "Pour all ingredients directly into an old fashioned glass filled with ice cubes. Stir gently.",
+			"name": "French Connection"
+		},
+		{
+			"garnish": "Squeeze oil from lemon peel onto the drink.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Vodka"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Raspberry Liqueur"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Pineapple Juice"
+				}
+			],
+			"method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+			"name": "French Martini"
+		},
+		{
+			"garnish": "Garnish with a lemon slice, optional lemon zest.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Simple Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "splash"
+						}
+					],
+					"name": "Soda Water"
+				}
+			],
+			"method": "Shake all ingredients with ice except soda water. Pour into thin tall Tumbler glass, top with a splash soda water.",
+			"name": "Gin Fizz",
+			"note": "Serve without ice."
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Galliano"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Triple Sec"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Orange Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Cream"
+				}
+			],
+			"method": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+			"name": "Golden Dream"
+		},
+		{
+			"garnish": "N/A, optional mint leaf",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Crème de Cacao",
+					"note": "White"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Crème de Menthe",
+					"note": "Green"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Cream"
+				}
+			],
+			"method": "Pour all ingredients into shaker filled with ice. Shake briskly for few seconds. Strain into chilled cocktail glass.",
+			"name": "Grasshopper"
+		},
+		{
+			"garnish": "Orange zest.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "London Dry Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Sweet Red Vermouth"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "7.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fernet Branca"
+				}
+			],
+			"method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass.",
+			"name": "Hanky Panky"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "40",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Grapefruit Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Maraschino Luxardo"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime"
+				}
+			],
+			"method": "Pour all ingredients into a shaker with ice. Shake well and strain into a large cocktail glass.",
+			"name": "Hemingway Special"
+		},
+		{
+			"garnish": "Garnish with a rind of one lemon spiral.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "40",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Cognac"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "120",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Ginger Ale"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "dash"
+						}
+					],
+					"name": "Angostura Bitters",
+					"note": "optional"
+				}
+			],
+			"method": "Pour Cognac and ginger ale directly into a highball glass with ice cubes. Stir gently. If preferred, add dashes of Angostura Bitter.",
+			"name": "Horse’s Neck"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Espadin Mezcal"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Jamaica Overproof White Rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Falernum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "bar spoon"
+						}
+					],
+					"name": "Maraschino Luxardo"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Simple Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "few",
+							"unit": "drops"
+						}
+					],
+					"name": "Egg White",
+					"note": "Optional"
+				}
+			],
+			"method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled cocktail glass, or “on the rocks” in a traditional clay or terracotta mug.",
+			"name": "Illegal"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Irish Whiskey"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "120",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Hot coffee"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh cream",
+					"note": "Chilled"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "teaspoon"
+						}
+					],
+					"name": "Sugar"
+				}
+			],
+			"method": "Warm black coffee is poured into a pre-heated Irish coffee glass. Whiskey and at least one teaspoon of sugar is added and stirred until dissolved. Fresh thick chilled cream is carefully poured over the back of a spoon held just above the surface of the coffee. The layer of cream will float on the coffee without mixing. Plain sugar can be replaced with sugar syrup",
+			"name": "Irish Coffee"
+		},
+		{
+			"garnish": "Garnish with a lemon slice and maraschino cherry.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Simple Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Soda Water"
+				}
+			],
+			"method": "Pour all ingredients directly into a highball filled with ice. Stir gently.",
+			"name": "John Collins",
+			"note": "Use ‘Old Tom’ Gin for Tom Collins."
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "90",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Dry White Wine"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Crème de Cassis"
+				}
+			],
+			"method": "Pour Crème de Cassis into glass, top up with white wine.",
+			"name": "KIR",
+			"note": "KIR ROYAL - Use Champagne instead of white wine"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Green Chartreuse"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Maraschino Luxardo"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				}
+			],
+			"method": "Add all ingredients into a cocktail shaker. Shake with ice and strain into a chilled cocktail glass.",
+			"name": "Last word"
+		},
+		{
+			"garnish": "Garnish with sugar rim around the glass.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Vodka Citron"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Triple Sec"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				}
+			],
+			"method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+			"name": "Lemon drop Martini"
+		},
+		{
+			"garnish": "Lemon Slice (Optional)",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Vodka"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Tequila"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "White rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Cointreau"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Lemon juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Simple syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "top up"
+						}
+					],
+					"name": "Cola"
+				}
+			],
+			"method": "Add all ingredients into a highball glass filled with ice. Stir gently.",
+			"name": "Long Island Ice Tea"
+		},
+		{
+			"garnish": "Garnish with pineapple spear, mint leaves, and lime peel.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Amber Jamaican Rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Martinique Molasses Rhum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Orange Curacao"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Orgeat Syrup",
+					"note": "Almond"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "7.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Simple Syrup"
+				}
+			],
+			"method": "Add all ingredients into a shaker with ice. Shake and pour into a double rocks glass or a highball glass.  The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of “rummy” from molasses.",
+			"name": "Mai-Tai"
+		},
+		{
+			"garnish": "Garnish with a cocktail cherry.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Rye Whiskey"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Sweet Red Vermouth"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "dash"
+						}
+					],
+					"name": "Angostura Bitters"
+				}
+			],
+			"method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+			"name": "Manhattan",
+			"note": "BLACK MANHATTAN - Use Averna amaro instead of sweet vermouth and add a dash of orange bitters."
+		},
+		{
+			"garnish": "Half salt rim (Optional)",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Tequila 100% Agave"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Triple Sec"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Freshly Squeezed Lime Juice"
+				}
+			],
+			"method": "Add all ingredients into a shaker with ice. Shake and strain into a chilled cocktail glass",
+			"name": "Margarita"
+		},
+		{
+			"garnish": "Lemon zest.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "London Dry Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Sweet Red Vermouth"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "bar spoon"
+						}
+					],
+					"name": "Maraschino Liqueur"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "dash"
+						}
+					],
+					"name": "Orange Bitters"
+				}
+			],
+			"method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+			"name": "Martinez"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "White Rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Pineapple Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "7.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Maraschino Luxardo"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/8",
+							"unit": "oz"
+						}
+					],
+					"name": "Grenadine Syrup"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+			"name": "Mary Pickford"
+		},
+		{
+			"garnish": "Garnish with an orange twist (optional).",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "75",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh orange juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "75",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Prosecco"
+				}
+			],
+			"method": "Pour orange juice into a flute glass and gently pour the sparkling wine. Stir gently.",
+			"name": "Mimosa",
+			"note": "Also known as Buck’s Fizz."
+		},
+		{
+			"garnish": "Garnish with a mint sprig.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Bourbon Whiskey"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "4",
+							"unit": "piece"
+						}
+					],
+					"name": "fresh Mint sprigs"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "teaspoon"
+						}
+					],
+					"name": "Powdered Sugar"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "teaspoon"
+						}
+					],
+					"name": "Water"
+				}
+			],
+			"method": "In Julep Stainless Steel Cup gently muddle the mint with sugar and water. Fill the glass with cracked ice, add the Bourbon and stir well until the cup frosts.",
+			"name": "Mint Julep"
+		},
+		{
+			"garnish": "Garnish with sprigs of mint and slice of lime.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "White Cuban Ron"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "6",
+							"unit": "piece"
+						}
+					],
+					"name": "Mint Sprigs"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "teaspoon"
+						}
+					],
+					"name": "White Cane Sugar"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "top up"
+						}
+					],
+					"name": "Soda Water"
+				}
+			],
+			"method": "Mix mint springs with sugar and lime juice. Add splash of soda water and fill the glass with ice. Pour the rum and top with soda water. Light stir to involve all ingredients.",
+			"name": "Mojito"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Dry Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Orange Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "tablespoon"
+						}
+					],
+					"name": "Absinthe"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "tablespoon"
+						}
+					],
+					"name": "Grenadine Syrup"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+			"name": "Monkey Gland"
+		},
+		{
+			"garnish": "Garnish with a lime slice",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Smirnoff Vodka"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "120",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Ginger Beer"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh lime juice"
+				}
+			],
+			"method": "In a Mule Cup or rocks glass, combine the vodka and ginger beer. Add lime juice and gently stir to involve all ingredients.",
+			"name": "Moscow Mule"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Mezcal"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Yellow Chartreuse"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Aperol"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				}
+			],
+			"method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+			"name": "Naked and Famous"
+		},
+		{
+			"garnish": "Garnish with a half orange slice.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Bitter Campari"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Sweet Red Vermouth"
+				}
+			],
+			"method": "Pour all ingredients directly into a chilled old fashioned glass filled with ice, Stir gently.",
+			"name": "Negroni"
+		},
+		{
+			"garnish": "Garnish with lemon or orange zest with cherry.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Rye Whiskey or Bourbon"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Simple syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh lemon juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "few",
+							"unit": "drops"
+						}
+					],
+					"name": "Egg White"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Red wine",
+					"note": "Shiraz or Malbech"
+				}
+			],
+			"method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled rocks glass filled with ice. Float the wine on top.",
+			"name": "New York Sour"
+		},
+		{
+			"garnish": "Garnish with mint springs.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "6-8",
+							"unit": "piece"
+						}
+					],
+					"name": "Mint Leaves"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Aged Rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Simple Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "dash"
+						}
+					],
+					"name": "Angostura Bitters"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Brut Champagne or Prosecco"
+				}
+			],
+			"method": "Pour all ingredients into cocktail shaker except the wine, shake well with ice, strain into chilled elegant cocktail glass. Top up with the sparkling wine.",
+			"name": "Old Cuban"
+		},
+		{
+			"garnish": "Garnish with an orange slice or zest, and a cocktail cherry.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Bourbon or Rye Whiskey"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "piece"
+						}
+					],
+					"name": "Sugar Cube"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "few",
+							"unit": "dash"
+						}
+					],
+					"name": "Angostura Bitters"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "few",
+							"unit": "dash"
+						}
+					],
+					"name": "Plain Water"
+				}
+			],
+			"method": "Place sugar cube in old fashioned glass and saturate with bitter, add few dashes of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Stir gently.",
+			"name": "Old Fashioned"
+		},
+		{
+			"garnish": "Garnish with a slice of lime.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "100% Agave Tequila"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/8",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh lime"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "pinch"
+						}
+					],
+					"name": "Salt"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "100",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Pink Grapefruit Soda"
+				}
+			],
+			"method": "Poor the tequila into a highball glass, squeeze the lime juice. Add ice and salt, fill up pink grapefruit soda. Stir gently.",
+			"name": "Paloma"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Bourbon Whiskey"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Amaro Nonino"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Aperol"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				}
+			],
+			"method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+			"name": "Paper Plane"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Apricot Brandy"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Orange Juice"
+				}
+			],
+			"method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+			"name": "Paradise"
+		},
+		{
+			"garnish": "Garnish with candied ginger.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Blended Scotch Whisky"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "7.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Lagavulin 16 y Whisky"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Honey Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2-3",
+							"unit": "piece"
+						}
+					],
+					"name": "quarter size Sliced Fresh Ginger"
+				}
+			],
+			"method": "Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Islay single malt whiskey. Fill the shaker with ice and shake. Double-strain into a chilled old fashioned glass with ice. Float the single malt whisky on top.",
+			"name": "Penicillin"
+		},
+		{
+			"garnish": "Garnish with a slice of pineapple with a cocktail cherry.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "White Rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Coconut Cream"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Pineapple Juice"
+				}
+			],
+			"method": "Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws.",
+			"name": "Pina Colada",
+			"note": "Historically a few drops of fresh lime juice were added to taste. 4 slices of fresh pineapple can be used instead of juice"
+		},
+		{
+			"garnish": "Few dashes of Amargo bitters on top as an aromatic garnish.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Pisco"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Simple Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "piece"
+						}
+					],
+					"name": "Raw Egg White"
+				}
+			],
+			"method": "Add all ingredients into a shaker with ice. Shake and strain into a chilled goblet glass.",
+			"name": "Pisco Sour"
+		},
+		{
+			"garnish": "Garnish with orange zest.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Jamaican Rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Sugar Cane Juice"
+				}
+			],
+			"method": "Pour all ingredients directly in a small tumbler or a typical terracotta glass.",
+			"name": "Planter’s Punch",
+			"note": "Add dilution up to taste, it can be given by water, ice or fresh juices."
+		},
+		{
+			"garnish": "Sprinkle with fresh ground nutmeg.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Brandy"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Red Tawny Port Wine"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Egg Yolk"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+			"name": "Porto Flip"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Sugar Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Cream"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Egg white"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "3",
+							"unit": "dash"
+						}
+					],
+					"name": "Orange Flower Water"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "drops"
+						}
+					],
+					"name": "Vanilla Extract"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "top up"
+						}
+					],
+					"name": "Soda Water"
+				}
+			],
+			"method": "Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute. Strain into a highball glass, top up with soda.",
+			"name": "Ramos Fizz",
+			"note": "The drink was invented by Henry Ramos in 1888, at his bar Meyer’s Table d’Hôtel Internationale in New Orleans. The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another."
+		},
+		{
+			"garnish": "Garnish with blackberries and optionally a lemon slice as well.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "25",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Vodka"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "25",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Crème de Cassis"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Sugar syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "top up"
+						}
+					],
+					"name": "Sparkling wine"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker except the sparkling wine, shake well with ice, strain into a chilled tall tumbler glass filled with ice, and top up with sparkling wine.",
+			"name": "Russian Spring Punch"
+		},
+		{
+			"garnish": "Garnish with lemon zest.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Scotch Whisky"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "25",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Drambuie"
+				}
+			],
+			"method": "Pour all ingredients directly into an old fashioned glass filled with ice. Stir gently.",
+			"name": "Rusty Nail"
+		},
+		{
+			"garnish": "Garnish with lemon zest.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Cognac"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Absinthe"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "piece"
+						}
+					],
+					"name": "Sugar Cube"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "dash"
+						}
+					],
+					"name": "Peychaud’s Bitters"
+				}
+			],
+			"method": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice in a mixing glass. Discard the ice and any excess absinthe from the prepared glass, strain the mixed drink into the glass.",
+			"name": "Sazerac",
+			"note": "The original recipe changed after the American Civil War, Rye Whiskey substituted Cognac as it became hard to obtain."
+		},
+		{
+			"garnish": "Garnish with orange zest and cherry",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "40",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Vodka"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "120",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Cranberry Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Grapefruit Juice"
+				}
+			],
+			"method": "Build all ingredients in a highball glass filled with ice.",
+			"name": "Sea Breeze"
+		},
+		{
+			"garnish": "Garnish with a half orange slice.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "40",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Vodka"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Peach Schnapps"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "40",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Orange Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "40",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Cranberry Juice"
+				}
+			],
+			"method": "Build all ingredients in a highball glass filled with ice.",
+			"name": "Sex on the Beach"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Cognac"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Triple Sec"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+			"name": "Sidecar"
+		},
+		{
+			"garnish": "Garnish with pineapple and maraschino cherry",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Cherry liqueur"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "7.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Cointreau"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "7.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "DOM Bénédictine"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "120",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Pineapple Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Grenadine Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "dash"
+						}
+					],
+					"name": "Angostura bitters"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker filled with ice cubes. Shake well. Strain into Hurricane glass.",
+			"name": "Singapore Sling"
+		},
+		{
+			"garnish": "Garnish with mint springs.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "London Dry Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Simple Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "5-6",
+							"unit": "piece"
+						}
+					],
+					"name": "Mint Leaves"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "few",
+							"unit": "drops"
+						}
+					],
+					"name": "Egg White",
+					"note": "Optional"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
+			"name": "Southside",
+			"note": "If egg white is used shake vigorously."
+		},
+		{
+			"garnish": "Garnish with a red chili pepper",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Vodka Vanilla"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Elderflower Cordial"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Monin Honey Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "piece"
+						}
+					],
+					"name": "thin Slices Red Chili Pepper"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass.",
+			"name": "Spicy Fifty"
+		},
+		{
+			"garnish": "Garnish with a slice of orange.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "90",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Prosecco"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Aperol"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "splash"
+						}
+					],
+					"name": "Soda water"
+				}
+			],
+			"method": "Build all ingredients into a wine glass filled with ice. Stir gently.",
+			"name": "Spritz",
+			"note": "There are other versions of the Spritz that use Campari, Cynar or Select instead of Aperol."
+		},
+		{
+			"garnish": "Optional mint leave.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Cognac"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "White Crème de Menthe"
+				}
+			],
+			"method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+			"name": "Stinger"
+		},
+		{
+			"garnish": "Garnish with mint springs and optionally an orange slice as well.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Cognac or Brandy"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "dash"
+						}
+					],
+					"name": "Angostura Bitters"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "top up"
+						}
+					],
+					"name": "Ginger beer"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker except the ginger beer, shake well with ice, Pour unstrained into a Collins glass or in the original S. Bastard mug and top up with ginger beer.",
+			"name": "Suffering Bastard"
+		},
+		{
+			"garnish": "Garnish with half orange slice or an orange zest",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Tequila"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "90",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Orange Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Grenadine Syrup"
+				}
+			],
+			"method": "Pour tequila and orange juice directly into highball glass filled with ice cubes. Add the grenadine syrup to create chromatic effect (sunrise), do not stir.",
+			"name": "Tequila Sunrise"
+		},
+		{
+			"garnish": "Garnish with a slice of orange.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "50",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Irish Whiskey"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "25",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Sweet Red Vermouth"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Green Chartreuse"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "dash"
+						}
+					],
+					"name": "Angostura Bitters"
+				}
+			],
+			"method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+			"name": "Tipperary"
+		},
+		{
+			"garnish": "Garnish with a lime slice.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "60",
+							"unit": "ml"
+						},
+						{
+							"quantity": "2",
+							"unit": "oz"
+						}
+					],
+					"name": "Tequila Agave 100% Reposado"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice",
+					"note": "Persiano"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Agave Syrup",
+					"note": "1/2 Water + 1/2 Agave Nectar"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
+			"name": "Tommy’s Margarita"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Angostura Bitters"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Orgeat Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Rye Whisky"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+			"name": "Trinidad Sour"
+		},
+		{
+			"garnish": "Garnish with cherry and lemon zest",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Old Tom Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Dry Vermouth"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1/2",
+							"unit": "bar spoon"
+						}
+					],
+					"name": "Maraschino Luxardo"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1/4",
+							"unit": "bar spoon"
+						}
+					],
+					"name": "Absinthe"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "3",
+							"unit": "dash"
+						}
+					],
+					"name": "Orange Bitters"
+				}
+			],
+			"method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+			"name": "Tuxedo"
+		},
+		{
+			"garnish": "Garnish with lemon zest and white grapes.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "White Smooth Grappa"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "22.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Honey mix",
+					"note": "replace water with chamomile"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Chamomile cordial"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "10",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Egg White",
+					"note": "Optional"
+				}
+			],
+			"method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled small tumbler glass filled with ice.",
+			"name": "VE.N.TO",
+			"note": "If desired water can be replaced by chamomile infusion in the honey mix."
+		},
+		{
+			"garnish": "Lemon zest",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Vodka"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "7.5",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Lillet Blanc"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+			"name": "Vesper"
+		},
+		{
+			"garnish": "Garnish with orange zest and maraschino cherry.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Rye Whiskey"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Cognac"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Sweet Vermouth"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "bar spoon"
+						}
+					],
+					"name": "Bénédictine"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "2",
+							"unit": "dash"
+						}
+					],
+					"name": "Peychaud’s Bitters"
+				}
+			],
+			"method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+			"name": "Vieux Carrè"
+		},
+		{
+			"garnish": "Garnish with a half orange slice and maraschino cherry, optionally use orange zest.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Bourbon Whiskey"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "25",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Sugar Syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Egg White",
+					"note": "Optional"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker filled with ice. Shake well. Strain into cobbler glass. If served “On the rocks”, strain ingredients into an old fashioned glass filled with ice.",
+			"name": "Whiskey Sour",
+			"note": "If egg white is used shake little harder to release and incorporate the foam from the egg white."
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "40",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Gin"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Triple Sec"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lemon Juice"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled cocktail glass.",
+			"name": "White Lady"
+		},
+		{
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "White rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Galliano"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Triple Sec"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh Lime Juice"
+				}
+			],
+			"method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+			"name": "Yellow Bird"
+		},
+		{
+			"garnish": "Garnish with mint leaves.",
+			"ingredients": [
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Jamaican dark rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "45",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1 1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Gold Puerto Rican rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "30",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1",
+							"unit": "oz"
+						}
+					],
+					"name": "Demerara Rum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "20",
+							"unit": "ml"
+						},
+						{
+							"quantity": "3/4",
+							"unit": "oz"
+						}
+					],
+					"name": "Fresh lime juice"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Falernum"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "15",
+							"unit": "ml"
+						},
+						{
+							"quantity": "1/2",
+							"unit": "oz"
+						}
+					],
+					"name": "Donn’s Mix"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "teaspoon"
+						}
+					],
+					"name": "Grenadine syrup"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "1",
+							"unit": "dash"
+						}
+					],
+					"name": "Angostura bitters"
+				},
+				{
+					"amount": [
+						{
+							"quantity": "6",
+							"unit": "drops"
+						}
+					],
+					"name": "Pernod"
+				}
+			],
+			"method": "Add all ingredients into an electric blender with 170 grams of cracked ice. With pulse bottom blend for a few seconds. Serve in a tall tumbler glass.",
+			"name": "Zombie",
+			"note": "Donn’s Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup"
+		}
+	],
+	"intro": "A text list of delicious cocktails by the International Bartenders Association."
 }

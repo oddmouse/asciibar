@@ -1,8 +1,14 @@
 const smartBreak = () => {};
 
 smartBreak.register = (Handlebars) => {
-	Handlebars.registerHelper("smartBreak", (text, maxLength) => {
+	Handlebars.registerHelper("smartBreak", (text, maxLength, paddingString) => {
 		if (!text || typeof text !== "string") return "";
+
+		// Handle optional parameters - check if paddingString is actually a string
+		let padding = "";
+		if (typeof paddingString === "string") {
+			padding = paddingString;
+		}
 
 		// Split by existing line breaks first
 		const existingLines = text.split(/\r?\n/);
@@ -15,6 +21,7 @@ smartBreak.register = (Handlebars) => {
 			} else {
 				// Process this line for breaking
 				let start = 0;
+				let isFirstSegment = true;
 
 				while (start < line.length) {
 					let end = Math.min(start + maxLength, line.length);
@@ -28,8 +35,16 @@ smartBreak.register = (Handlebars) => {
 						}
 					}
 
-					processedLines.push(line.slice(start, end).trim());
+					let segment = line.slice(start, end).trim();
+
+					// Add padding to continuation lines (not the first segment)
+					if (!isFirstSegment && segment && padding) {
+						segment = padding + segment;
+					}
+
+					processedLines.push(segment);
 					start = end + 1; // Skip the space
+					isFirstSegment = false;
 				}
 			}
 		});
