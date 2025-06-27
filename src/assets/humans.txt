@@ -5,6 +5,3 @@ Site: lindy.co
 /* THANKS */
 Name: Rasmus Bååth
 Github: @rasmusab
-
-/* SITE */
-Last build: {{currentDate false}}
