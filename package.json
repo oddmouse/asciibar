@@ -7,7 +7,7 @@
 		"compile": "hbs --helper ./src/helpers/currentDate.js --helper ./src/helpers/ingredientItem.js --helper ./src/helpers/smartBreak.js --helper ./src/helpers/upperCase.js --data ./src/data.json --output ./public/ --extension txt ./src/*.txt",
 		"dev": "pnpm clean && pnpm watch & pnpm serve",
 		"serve": "serve ./public",
-		"watch": "nodemon --watch ./src/*.txt --ext txt --exec 'pnpm build'"
+		"watch": "nodemon --watch ./src --exec 'pnpm build'"
 	},
 	"devDependencies": {
 		"cspell": "^9.1.2",

@@ -1575,7 +1575,7 @@
 			"name": "Golden Dream"
 		},
 		{
-			"garnish": "N/A, optional mint leaf",
+			"garnish": "Mint leaf (optional)",
 			"ingredients": [
 				{
 					"amount": [
@@ -4983,5 +4983,5 @@
 			"note": "Donn’s Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup"
 		}
 	],
-	"intro": "A text list of delicious cocktails by the International Bartenders Association."
+	"intro": "Serving up delicious cocktails \nin plain text."
 }

@@ -4,7 +4,7 @@
 
 ===========================================
 
-{{smartBreak intro 44}}
+{{smartBreak intro 43}}
 
 
 
@@ -14,20 +14,20 @@
 
 Ingredients:
 {{#each cocktail.ingredients as |ingredient|}}
-{{smartBreak (ingredientItem ingredient) 44 "  "}}
+{{smartBreak (ingredientItem ingredient) 43 "  "}}
 {{/each}}
 {{#if cocktail.garnish}}
 
 Garnish:
-{{smartBreak cocktail.garnish 44}}
+{{smartBreak cocktail.garnish 43}}
 {{/if}}
 
 Method:
-{{smartBreak cocktail.method 44}}
+{{smartBreak cocktail.method 43}}
 {{#if cocktail.note}}
 
 Note:
-{{smartBreak cocktail.note 44}}
+{{smartBreak cocktail.note 43}}
 {{/if}}
 
 
